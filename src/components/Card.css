@@ -1,0 +1,11 @@
+.off {
+	background-color: rgb(72, 228, 217);
+	border-color: rgb(72, 228, 217);
+	border-style: solid;
+}
+.on {
+	background-color: rgb(33, 143, 143);
+	/*background-color: rgb(72, 228, 217);*/
+	border-color: rgb(238, 54, 54);
+	border-style: solid;
+}
